@@ -1,0 +1,32 @@
+{
+  "name": "yad2parser",
+  "version": "1.0.0",
+  "description": "Parser for yad2 realty estate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertKogan/yad2parser.git"
+  },
+  "keywords": [
+    "parser",
+    "yad2",
+    "telegram",
+    "node"
+  ],
+  "author": "Albert Kogan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/AlbertKogan/yad2parser/issues"
+  },
+  "homepage": "https://github.com/AlbertKogan/yad2parser#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "telebot": "^1.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
